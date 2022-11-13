@@ -1,0 +1,554 @@
+@media(max-width:767.98px){
+       .head_icon{
+        text-align: center;
+        margin-bottom: 10px;
+
+       } 
+       .head_icon p a{
+        margin: 0 7px;
+       }
+       .head_contact {
+        text-align: start !important;
+       }
+       .head_contact p {
+	margin: 0px 0px;
+        }
+        .head_contact a {
+                font-size: 12px;
+                margin: 0px 0px;
+        }
+        .head_contact button {
+                margin-left: 208px;
+                margin-top: 10px;
+           
+        }
+        /*====hedar part end ====*/
+        .navbar-brand img{
+                width: 70%;
+        }
+        .navbar-light .navbar-toggler {
+                color: #000 !important;
+                border-color: #000 !important;
+        }
+        .navbar-toggler:focus {
+                box-shadow:none !important; 
+        }
+        .navbar-collapse {
+                transition: 0.2s;
+                text-align: center;
+        }
+        .navbar-toggler span{
+                font-size: 16px;
+        }
+        /* ===navbar part end === */
+        .banner_text p {
+                font-size: 16px;
+        }
+        .banner_text form input {
+                width: 270px;
+                height: 40px;
+                margin: 10px 20px;
+        }
+        .banner_text form button {
+                padding: 10px 15px 7px 13px;
+                font-size: 14px;
+                margin-left: 12px;
+        }
+        .service_iner {
+                border-left: none !important; 
+                 border-right: none !important;
+        }
+        .service_in {
+                border-right: none !important;
+        }
+        .service_item {
+                padding: 30px 0px;
+        }
+        .service_item p {
+                font-size: 15px;
+        }
+        .service_item strong{
+                font-size: 12px !important;
+        }
+        /* ===banner part end === */
+        #plan {
+                padding: 25px 0px 40px;
+        }
+        .plan_head h2 {
+                font-size: 25px;
+        }
+        .plan_head p {
+                font-size: 16px;
+                font-weight: 400;
+        }
+        .best_seller img {
+                width: 58% !important;
+        }
+        .order_many h2 {
+                font-size: 32px;
+        }
+        .order_many a {
+                padding: 9px 20px;
+        }
+        /* ===plan part end === */
+        #livechat {
+                padding: 20px 0px;
+        }
+        .livechat_text h2  {
+                font-size: 27px;
+        }
+        .livechat_text h2 strong {
+                font-size: 27px;
+        }
+        .livechat_text button {
+                font-size: 20px;
+        }
+        /* ===livechat part end === */
+        #include {
+                padding: 18px 0px;
+        }
+        .include_head h2 {
+                font-size: 30px;
+        }
+        .include_item a {
+                font-size: 30px;
+        }
+        .include_item p {
+                font-size: 16px;
+        }
+        /* ===include part end === */
+        .hosting_head h2 {
+                font-size: 26px;
+        }
+        .hosting_head p {
+                font-size: 15px;
+        }
+        /* ===hosting part end === */
+        .makes_head h2 {
+                font-size: 30px;
+        }
+        .makes_icon {
+                top: 0px;
+                left: -70px;
+                font-size: 20px;
+                height: 50px;
+                width: 50px;
+                line-height: 50px;
+        }
+        .makes_icon::after {
+                height: 50px;
+                width: 50px;
+
+        }
+        .makes_text p {
+                font-size: 18px;
+        }
+        /* ===makes part end === */
+        .question_head h2 {
+                font-size: 26px;
+                margin-top: 10px;
+        }
+        /* ===question end === */
+        .accordion_tabs{
+                text-align: center;
+                height: 100%;
+                font-size: 16px;
+        }
+        a.accordion_tabs:hover, a.accordion_tabs:focus {
+                color: #000 !important;
+        }
+        .tutorial_hosting p {
+                font-size: 12px;
+        }
+        /* ===tutorial end === */
+        .cont_img img{
+        position: absolute;
+        top: 0px;
+        z-index: 1;
+        }
+        .cont_text {
+                margin-top: 140px;
+        }
+        .cont_text h2 {
+                font-size: 28px;
+        }
+        .cont_text strong {
+                font-size: 21px;
+        }
+        .cont_text p {
+                font-size: 14px;
+        }
+        .cont_btn a {
+                font-size: 14px;
+        }
+        .cont_text button a {
+                padding: 6px 30px;
+                font-size: 14px;
+        }
+        /* ===best_offer end === */
+        /* ===question part end === */
+        .payment_comp img {
+                width: 60%;
+                margin-left: 120px;
+        }
+        /* ===help part end === */
+        .help_numbar, .Sign_up{
+                text-align: center;
+
+        }
+        .help_numbar h4 {
+                font-size: 18px;
+        }
+        .help_numbar h2 {
+                font-size: 35px;
+        }
+        .Sign_up form input {
+                width: 68.4%;
+        }
+        .sosal_icon a {
+                height: 30px;
+                width: 30px;
+                line-height: 30px;
+        }
+        .left_text p {
+                font-size: 14px;
+        }
+        /* ===footer part === */
+        .footer_end{
+                text-align: end;
+        }
+        .footer_item h2 {
+                font-size: 22px;
+        }
+        .footer_item_all a {
+                font-size: 15px;
+        }
+        .footer_item_all p {
+                font-size: 15px;
+        }
+}
+/* ==== ==== */
+@media(min-width:576px) and (max-width:767.98px){
+        .banner_text form input {
+                width: 321px;
+        }
+        .best_seller {
+                top: -21px;
+        }
+        .best_seller img {
+                width: 100% !important;
+        }
+        .makes_item {
+                margin: 10px 30px 37px 100px;
+        }
+        .makes_icon {
+                top: 0px;
+        }
+        .makes_text p {
+                font-size: 16px;
+        }
+        .tabs li a {
+                margin: 0px 0px;
+        }
+        .best_btn ul li a {
+                font-size: 11px;
+                padding: 10px 5px !important;
+                margin: 0 7px;
+        }
+        .toggle_border{
+                margin-top: 0 !important;
+        }
+
+}
+/* == == */
+@media(min-width:768px) and (max-width:991.98px){
+        .head_icon{
+                text-align: center;
+                margin-bottom: 10px;
+        
+               } 
+               .head_icon p a {
+                margin: 0 2px;
+        }
+               .head_contact {
+                text-align: start !important;
+               }
+               .head_contact p {
+                margin: 0px 0px;
+                }
+                .head_contact a {
+                        font-size: 14px;
+                        margin: 0px 3px;
+                }
+                .head_contact button {
+                        margin-left: 50px;
+                        margin-top: 10px;
+                }
+                /*====hedar part end ====*/
+                .navbar-brand img{
+                        width: 70%;
+                }
+                .navbar-light .navbar-toggler {
+                        color: #000 !important;
+                        border-color: #000 !important;
+                }
+                .navbar-toggler:focus {
+                        box-shadow:none !important; 
+                }
+                .navbar-collapse {
+                        transition: 0.2s;
+                        text-align: center;
+                }
+                .navbar-toggler span{
+                        font-size: 16px;
+                }
+                /* ===navbar part end === */
+                .banner_text p {
+                        font-size: 24px;
+                }
+                .banner_text form input {
+                        width: 500px;
+                        height: 40px;
+                        margin: 10px 20px;
+                }
+                .banner_text form button {
+                        padding: 10px 15px 7px 13px;
+                        font-size: 14px;
+                        margin-left: 12px;
+                }
+                .service_iner {
+                        border-left: none !important; 
+                         border-right: none !important;
+                }
+                .service_in {
+                        border-right: none !important;
+                }
+                .service_item {
+                        padding: 30px 0px;
+                }
+                .service_item p {
+                        font-size: 17px;
+                }
+                .service_item strong{
+                        font-size: 12px !important;
+                }
+                /* ===banner part end === */
+                #plan {
+                        padding: 37px 0px 40px;
+                }
+                .plan_head h2 {
+                        font-size: 27px;
+                }
+                .plan_head p {
+                        font-size: 18px;
+                        font-weight: 400;
+                }
+                .best_seller {
+                        top: -28px;
+                }
+                .best_seller img {
+                        width: 100% !important;
+                }
+                .order_many h2 {
+                        font-size: 40px;
+                }
+                .order_many a {
+                        padding: 10px 30px;
+                }
+                /* ===plan part end === */
+                #livechat {
+                        padding: 20px 0px;
+                }
+                .livechat_text h2 {
+                        font-size: 40px;
+                }
+                .livechat_text h2 strong {
+                        font-size: 30px;
+                }
+                .livechat_text button {
+                        font-size: 26px;
+                }
+                /* ===livechat part end === */
+                #include {
+                        padding: 18px 0px;
+                }
+                .include_item a {
+                        font-size: 36px;
+                }
+                /* ===include part end === */
+                .hosting_head h2 {
+                        font-size: 32px;
+                }
+                .hosting_head p {
+                        font-size: 18px;
+                }
+                /* ===hosting part end === */
+                .makes_head h2 {
+                        font-size: 33px;
+                }
+                .makes_icon {
+                        top: 0px;
+                        left: -89px;
+                        font-size: 20px;
+                        height: 65px;
+                        width: 65px;
+                        line-height: 65px;
+                }
+                .makes_icon::after {
+                        height: 65px;
+                        width: 65px;
+        
+                }
+                /* ===makes part end === */
+                .accordion_tabs{
+                        text-align: center;
+                        height: 100%;
+                        font-size: 16px;
+                }
+                a.accordion_tabs:hover, a.accordion_tabs:focus {
+                        color: #000 !important;
+                }
+                .tabs li a {
+                        padding: 15px 50px;
+                }
+                .best_btn ul li a {
+                        font-size: 15px;
+                        padding: 10px 12px !important;
+                        margin: 0 7px;
+                }
+                /* ===tutorial end === */
+                .cont_img img{
+                position: absolute;
+                top: 0px;
+                z-index: 1;
+                }
+                .cont_text {
+                        margin-top: 140px;
+                }
+                .cont_text h2 {
+                        font-size: 28px;
+                }
+                .cont_text strong {
+                        font-size: 21px;
+                }
+                .cont_text p {
+                        font-size: 14px;
+                }
+                .cont_btn a {
+                        font-size: 14px;
+                }
+                .cont_text button a {
+                        padding: 6px 30px;
+                        font-size: 14px;
+                }
+                /* ===best_offer end === */
+                /* ===question part end === */
+                .payment_comp img {
+                        width: 60%;
+                        margin-left: 175px;
+                }
+                /* ===help part end === */
+                .help_numbar, .Sign_up{
+                        text-align: center;
+        
+                }
+                .help_numbar h4 {
+                        font-size: 18px;
+                }
+                .help_numbar h2 {
+                        font-size: 35px;
+                }
+                .Sign_up form input {
+                        width: 68.4%;
+                }
+                .sosal_icon a {
+                        height: 30px;
+                        width: 30px;
+                        line-height: 30px;
+                }
+                .left_text p {
+                        font-size: 14px;
+                }
+                /* ===footer part === */
+                .footer_end{
+                        text-align: end;
+                }
+                .footer_item_all a {
+                        font-size: 16px;
+                }
+                .footer_item_all p {
+                        font-size: 16px;
+                }
+}
+
+/* === === */
+@media(min-width:992px) and (max-width:1199.98px){
+        .navbar-brand img{
+             width: 80%;   
+        }
+        .banner_text form input {
+                width: 690px;
+        }
+        .service_item p {
+                font-size: 19px;
+        }
+        .best_seller {
+                top: -20px;
+        }
+        .include_item a {
+                font-size: 35px;
+        }
+        .makes_head h2 {
+                margin-bottom: 20px;
+        }
+        .makes_icon {
+                top: 44px;
+        }
+        .tabs li a {
+                padding: 15px 14px;
+        }
+        .tutorial_hosting p {
+                font-size: 11px !important;
+        }
+        .best_btn ul li a {
+                font-size: 18px;
+                padding: 10px 25px !important;
+                margin: 0 7px;
+        }
+        .Sign_up form input {
+                width: 75.4%;
+        }
+        .sosal_icon a {
+                height: 30px;
+                width: 30px;
+                line-height: 30px;
+                font-size: 14px;
+        }
+        .left_text p {
+                font-size: 15px;
+        }
+}
+/* === === */
+@media(min-width:1200px) and (max-width:1399.98px){
+        .navbar-brand img{
+                width: 80%;   
+           }
+           .best_seller {
+                top: -22px;
+        }
+        .makes_icon {
+                top: 22px;    
+        }
+        .tabs li a {
+                padding: 15px 29px;
+        }
+        .tutorial_hosting p {
+                font-size: 14px;
+        }
+        .makes_head h2 {
+                margin-bottom: 30px;
+        }
+        .Sign_up form input {
+                width: 79.4%;
+        }
+}
